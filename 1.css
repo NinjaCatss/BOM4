@@ -1,0 +1,9 @@
+
+body {
+  background-image: url('https://static.wikia.nocookie.net/madeinabyss/images/b/bb/Goblet_of_giants.png/revision/latest?cb=20200109054931&path-prefix=ru');
+  background-size: cover;
+  background-attachment: fixed;
+}
+p{
+  font-size: 150%;
+}
